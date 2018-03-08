@@ -1,10 +1,11 @@
 # Pixel Art Maker Project
 
-## This is the project for the Front-End Web Developer Nanodegree Program in the Intermediate Javascript course.
+* This is the project for the Front-End Web Developer Nanodegree Program in the Intermediate Javascript course.
+* Focuses on DOM manipulation and mastering event listeners.
 
 ## Getting Started
 
-To get started, download the code and decompress the zip file. Then open the the `index.html` file to start playing the game.
+* Download the code and decompress the zip file. Then open the the `index.html` file to start playing the game.
 
 ## Special Features
 
