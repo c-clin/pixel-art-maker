@@ -13,3 +13,7 @@ The user should be able create a canvas by:
 1. Customizing the grid height and width.
 2. Choosing any color to color the grids.
 3. Restart the canvas by clearing the grid. 
+
+## Demo 
+
+* [Demo] (https://chickencat.github.io/pixel-art-maker/.)
